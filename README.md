@@ -3,7 +3,7 @@
 ## 🌐 Live Link
 
 You can view the live interactive version of my resume here:
-👉 **[Live Project Link](https://your-username.github.io/your-repository-name/)**
+👉 **[Live Project Link](https://priyanshubohra10.github.io/resume/)**
 
 ---
 
