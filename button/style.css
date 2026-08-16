@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F8F4EC;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px 0 50px;
+    color: #5A3E2B;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    width: 180px;
+    height: 55px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Solid */
+
+#btn1 {
+    background-color: #4F5D75;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+#btn1:hover {
+    background-color: #3D4A61;
+}
+
+/* Outline */
+
+#btn2 {
+    background-color: transparent;
+    color: #4F5D75;
+    border: 2px solid #4F5D75;
+    border-radius: 8px;
+}
+
+#btn2:hover {
+    background-color: #4F5D75;
+    color: white;
+}
+
+/* Pill */
+
+#btn3 {
+    background-color: #A65E2E;
+    color: white;
+    border: none;
+    border-radius: 30px;
+}
+
+#btn3:hover {
+    background-color: #8B4C22;
+}
+
+/* Accent */
+
+#btn4 {
+    background-color: #B8872E;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+#btn4:hover {
+    background-color: #9F7120;
+}
